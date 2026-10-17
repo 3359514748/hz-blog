@@ -3,40 +3,50 @@
   "tagline": "THOUGHTS IN FREQUENCY",
   "intro": "记录思考，连接每一种可能。",
   "heroLines": [
-    "保持好奇，",
+    "保持好奇。",
     "让想法发生。"
   ],
-  "description": "这里是 Hz 的个人空间。写作、知识与实践，在这里慢慢相遇。",
+  "description": "记录，连接，慢慢抵达。",
   "footer": "STAY CURIOUS. KEEP BUILDING.",
   "repository": "https://github.com/3359514748/hz-blog",
   "sections": [
     {
       "id": "blog",
-      "label": "博客",
+      "label": "Log",
       "eyebrow": "WRITING",
       "description": "把值得展开的思考，写成文章。",
-      "layout": "list"
+      "layout": "cards",
+      "title": "博客"
     },
     {
       "id": "knowledge",
-      "label": "知识库",
+      "label": "KB",
       "eyebrow": "KNOWLEDGE",
       "description": "从记录到理解，让知识彼此连接。",
-      "layout": "list"
+      "layout": "cards",
+      "title": "知识库"
     },
     {
       "id": "projects",
-      "label": "项目",
+      "label": "Lab",
       "eyebrow": "PROJECTS",
       "description": "用作品回应好奇，记录实践中的选择。",
-      "layout": "cards"
+      "layout": "cards",
+      "title": "项目"
     },
     {
       "id": "ideas",
-      "label": "想法",
+      "label": "Ideas",
       "eyebrow": "THOUGHTS",
       "description": "留住那些一闪而过、还未完成的念头。",
-      "layout": "list"
+      "layout": "stack",
+      "title": "想法"
     }
-  ]
+  ],
+  "background": {
+    "whiteStars": 1500,
+    "blueStars": 1000,
+    "brightness": 1,
+    "speed": 0.35
+  }
 }
