@@ -44,9 +44,9 @@
     }
   ],
   "background": {
-    "whiteStars": 1500,
-    "blueStars": 1000,
-    "brightness": 1,
+    "whiteStars": 4000,
+    "blueStars": 2000,
+    "brightness": 1.5,
     "speed": 0.35
   }
 }
