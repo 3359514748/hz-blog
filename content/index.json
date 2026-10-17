@@ -1,0 +1,184 @@
+[
+  {
+    "id": "garden",
+    "section": "blog",
+    "title": "从收集到连接：搭建自己的知识系统",
+    "summary": "让零散的记录彼此连接，让知识在每一次回访中生长。",
+    "date": "",
+    "tags": [
+      "知识管理"
+    ],
+    "file": "content/posts/garden.md",
+    "sample": true,
+    "featured": true,
+    "status": ""
+  },
+  {
+    "id": "small",
+    "section": "blog",
+    "title": "把一个想法，做成一个小项目",
+    "summary": "从一个可验证的小问题开始，保留每一次选择的理由。",
+    "date": "",
+    "tags": [
+      "实践记录"
+    ],
+    "file": "content/posts/small.md",
+    "sample": true,
+    "featured": false,
+    "status": ""
+  },
+  {
+    "id": "slow",
+    "section": "blog",
+    "title": "给思考留一点空白",
+    "summary": "并不是所有输入，都需要立刻变成输出。",
+    "date": "",
+    "tags": [
+      "日常思考"
+    ],
+    "file": "content/posts/slow.md",
+    "sample": true,
+    "featured": false,
+    "status": ""
+  },
+  {
+    "id": "note-input",
+    "section": "knowledge",
+    "title": "输入 → 整理 → 输出",
+    "summary": "围绕用途组织知识，而不是只按来源归档。",
+    "date": "",
+    "tags": [
+      "知识管理"
+    ],
+    "file": "content/posts/note-input.md",
+    "sample": true,
+    "featured": false,
+    "status": ""
+  },
+  {
+    "id": "note-review",
+    "section": "knowledge",
+    "title": "每周回顾清单",
+    "summary": "给积累一个被重新发现的机会。",
+    "date": "",
+    "tags": [
+      "知识管理"
+    ],
+    "file": "content/posts/note-review.md",
+    "sample": true,
+    "featured": false,
+    "status": ""
+  },
+  {
+    "id": "note-prototype",
+    "section": "knowledge",
+    "title": "最小可用版本",
+    "summary": "为一个清晰场景完成一条完整路径。",
+    "date": "",
+    "tags": [
+      "设计与构建"
+    ],
+    "file": "content/posts/note-prototype.md",
+    "sample": true,
+    "featured": false,
+    "status": ""
+  },
+  {
+    "id": "note-writing",
+    "section": "knowledge",
+    "title": "把读书笔记写成自己的话",
+    "summary": "区分原作者观点、证据和个人推断。",
+    "date": "",
+    "tags": [
+      "阅读与写作"
+    ],
+    "file": "content/posts/note-writing.md",
+    "sample": true,
+    "featured": false,
+    "status": ""
+  },
+  {
+    "id": "note-learn",
+    "section": "knowledge",
+    "title": "从问题出发的学习路径",
+    "summary": "用实践反馈调整下一轮学习。",
+    "date": "",
+    "tags": [
+      "学习方法"
+    ],
+    "file": "content/posts/note-learn.md",
+    "sample": true,
+    "featured": false,
+    "status": ""
+  },
+  {
+    "id": "project-garden",
+    "section": "projects",
+    "title": "个人知识空间",
+    "summary": "把文章、笔记和项目连接成一张可探索的地图。",
+    "date": "",
+    "tags": [
+      "概念示例"
+    ],
+    "file": "content/posts/project-garden.md",
+    "sample": true,
+    "featured": false,
+    "status": "概念示例"
+  },
+  {
+    "id": "project-capture",
+    "section": "projects",
+    "title": "灵感捕捉器",
+    "summary": "给一闪而过的念头，一个可以回来的地方。",
+    "date": "",
+    "tags": [
+      "概念示例"
+    ],
+    "file": "content/posts/project-capture.md",
+    "sample": true,
+    "featured": false,
+    "status": "概念示例"
+  },
+  {
+    "id": "idea-1",
+    "section": "ideas",
+    "title": "知识库的价值，也许不在于存了多少，而在于让多少旧想法重新产生了联系。",
+    "summary": "知识库的价值，也许不在于存了多少，而在于让多少旧想法重新产生了联系。",
+    "date": "",
+    "tags": [
+      "知识管理"
+    ],
+    "file": "content/posts/idea-1.md",
+    "sample": true,
+    "featured": false,
+    "status": ""
+  },
+  {
+    "id": "idea-2",
+    "section": "ideas",
+    "title": "先做出一个足够小的版本，让真实的使用告诉我下一步该往哪里走。",
+    "summary": "先做出一个足够小的版本，让真实的使用告诉我下一步该往哪里走。",
+    "date": "",
+    "tags": [
+      "实践记录"
+    ],
+    "file": "content/posts/idea-2.md",
+    "sample": true,
+    "featured": false,
+    "status": ""
+  },
+  {
+    "id": "idea-3",
+    "section": "ideas",
+    "title": "留下一些还没想明白的问题。它们可能是下一篇文章的开头。",
+    "summary": "留下一些还没想明白的问题。它们可能是下一篇文章的开头。",
+    "date": "",
+    "tags": [
+      "日常思考"
+    ],
+    "file": "content/posts/idea-3.md",
+    "sample": true,
+    "featured": false,
+    "status": ""
+  }
+]

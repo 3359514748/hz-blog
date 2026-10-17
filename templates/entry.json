@@ -1,0 +1,12 @@
+{
+  "id": "my-first-post",
+  "section": "blog",
+  "title": "我的第一篇文章",
+  "summary": "用一两句话介绍这篇文章。",
+  "date": "2026-10-17",
+  "tags": ["日常思考"],
+  "file": "content/posts/my-first-post.md",
+  "sample": false,
+  "featured": false,
+  "published": true
+}
