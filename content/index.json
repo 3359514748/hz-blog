@@ -42,6 +42,38 @@
     "status": ""
   },
   {
+    "id": "matrix-theory",
+    "section": "knowledge",
+    "title": "矩阵理论",
+    "summary": "HW1 与 HW2 作业逐题详解、解题思路、知识点与课件索引。",
+    "date": "",
+    "tags": [
+      "矩阵理论",
+      "课程"
+    ],
+    "file": "content/posts/matrix-theory.md",
+    "sample": false,
+    "featured": false,
+    "published": true,
+    "status": "课程资料"
+  },
+  {
+    "id": "stochastic-process",
+    "section": "knowledge",
+    "title": "随机过程",
+    "summary": "课程入口已建立，资料待补充。",
+    "date": "",
+    "tags": [
+      "随机过程",
+      "课程"
+    ],
+    "file": "content/posts/stochastic-process.md",
+    "sample": false,
+    "featured": false,
+    "published": true,
+    "status": "待补充"
+  },
+  {
     "id": "note-input",
     "section": "knowledge",
     "title": "输入 → 整理 → 输出",
