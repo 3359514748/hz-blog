@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 410" role="img" aria-label="三状态马尔可夫链概率转移图">
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#54715b"/></marker></defs>
+<g fill="none" stroke="#54715b" stroke-width="2" marker-end="url(#arr)">
+<path d="M264 61 C210 0 350 0 296 61"/>
+<path d="M254 105 Q135 140 99 267"/>
+<path d="M111 276 L260 115"/>
+<path d="M302 112 L447 276"/>
+<path d="M61 285 C-8 220 -8 380 61 316"/>
+<path d="M120 286 Q280 210 440 286"/>
+<path d="M440 315 Q280 390 120 315"/>
+<path d="M500 285 C582 220 582 380 500 315"/>
+</g>
+<g fill="#f4f7f0" stroke="#213c39" stroke-width="2"><circle cx="280" cy="90" r="32"/><circle cx="90" cy="300" r="32"/><circle cx="470" cy="300" r="32"/></g>
+<g font-family="Arial,sans-serif" font-size="25" fill="#213c39" text-anchor="middle"><text x="280" y="99">1</text><text x="90" y="309">2</text><text x="470" y="309">3</text></g>
+<g font-family="Arial,sans-serif" font-size="20" fill="#54715b" text-anchor="middle" paint-order="stroke" stroke="white" stroke-width="5" stroke-linejoin="round">
+<text x="280" y="23">1/3</text><text x="139" y="168">1/3</text><text x="215" y="211">1/2</text><text x="403" y="184">1/3</text><text x="23" y="306">1/4</text><text x="280" y="242">1/4</text><text x="280" y="374">3/4</text><text x="558" y="306">1/4</text></g>
+</svg>
